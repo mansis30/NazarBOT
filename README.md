@@ -31,11 +31,12 @@ pip install -r requirements.txt
 ```
 
 # Environment Configuration (Mandatory)
-DO NOT COMMIT THIS FILE TO GITHUB
 
 NazarBOT uses environment variables to keep your API tokens secure. Create a .env file in the root folder:
 
 GITHUB_TOKEN=your_personal_access_token_here
+
+DO NOT COMMIT THIS FILE TO GITHUB
 
 # HOW TO USE
 
