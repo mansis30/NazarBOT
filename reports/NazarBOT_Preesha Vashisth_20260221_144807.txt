@@ -1,0 +1,32 @@
+==============================
+ NAZARBOT OSINT REPORT
+ Target: Preesha Vashisth
+ Date: 2026-02-21 14:48:07
+==============================
+
+--- [ PHONE INTELLIGENCE ] ---
+[+] Error: (1) The string supplied did not seem to be a phone number.
+
+--- [ SURFACE WEB MENTIONS ] ---
+[+] Preesha Vashisth - Amdox Technologies | LinkedIn - https://in.linkedin.com/in/preesha-vashisth-493008248
+[+] preesha73 (Preesha Vashisth) · GitHub - https://github.com/preesha73/
+[+] Preesha Vashisth on LinkedIn: Hey connections!!! I'm thrilled to ... - https://www.linkedin.com/posts/preesha-vashisth-493008248_hey-connections-im-thrilled-to-announce-activity-7236743593749602306-u5ef
+[+] preesha73 - Repositories - GitHub - https://github.com/preesha73?tab=repositories
+[+] Preesha Vashisth on LinkedIn: Greetings connections! I'm glad to ... - https://www.linkedin.com/posts/preesha-vashisth-493008248_greetings-connections-im-glad-to-share-activity-7145422322085126144-GCSk
+[+] GitHub - preesha73/preesha73 - https://github.com/preesha73/preesha73
+[+] #aws #cloudcomputing #awsacademy #cybersecurity ... - LinkedIn - https://www.linkedin.com/posts/preesha-vashisth-493008248_aws-cloudcomputing-awsacademy-activity-7308025155744620544-Wd-a
+[+] Preesha Vashisth's Post - LinkedIn - https://www.linkedin.com/posts/preesha-vashisth-493008248_drgvishwanathan-vitbhopallions-100daysofcode-activity-7308024160344014852-293I
+[+] 300+ "Preesha" profiles - LinkedIn - https://in.linkedin.com/pub/dir/Preesha/+/in-0-India
+[+] Anushka Kshirsagar's Post - LinkedIn - https://www.linkedin.com/posts/anushka-kshirsagar-7b1740250_webdevelopment-internshipexperience-learningandgrowing-activity-7312493276379463680-hIM1
+
+--- [ DARK WEB RESULTS ] ---
+[+] {'title': 'No results found on Ahmia.', 'link': 'N/A'}
+
+--- [ GITHUB RECON ] ---
+[+] emails: set()
+[+] phones: set()
+[+] sources: []
+
+--- [ BREACH CHECK ] ---
+[+] No breaches found in public databases.
+

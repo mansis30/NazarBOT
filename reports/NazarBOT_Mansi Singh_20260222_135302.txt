@@ -1,0 +1,32 @@
+==============================
+ NAZARBOT OSINT REPORT
+ Target: Mansi Singh
+ Date: 2026-02-22 13:53:02
+==============================
+
+--- [ PHONE INTELLIGENCE ] ---
+[+] Error: (1) The string supplied did not seem to be a phone number.
+
+--- [ SURFACE WEB MENTIONS ] ---
+[+] Mansi Singh - Senior Product Manager- Tech - LinkedIn - https://www.linkedin.com/in/msingh-0826
+[+] 2700+ "Mansi Singh" profiles - https://www.linkedin.com/pub/dir/Mansi/Singh
+[+] Mansi Singh - Singapore | Professional Profile - https://sg.linkedin.com/in/mansi-singh-732396
+[+] Mansi Singh - Ex-Planning Intern'25 @Flipkart - https://in.linkedin.com/in/mansi-singh-5163081ab
+[+] Mansi Singh - Chemistry professor at PW|Ex-vedantuNIT-W - https://in.linkedin.com/in/mansi-singh-6493711a7
+[+] Mansi Singh - Captain/ Team Leader Relationship manger ... - https://in.linkedin.com/in/mansi-singh-35b156137
+[+] Dr. Mansi Singh - PhD (Entrepreneurship-Strategy), IIT Delhi - https://in.linkedin.com/in/mansisingh
+[+] Mansi Singh - Codemonk | LinkedIn - https://in.linkedin.com/in/mansi-singh-241b5522b?trk=public_profile_browsemap
+[+] Mansi Singh - Crafting Copy, Sipping Coffee and Cracking Campaigns - https://in.linkedin.com/in/mansiisiingh
+[+] Mansi Singh - AI Engineer @ KBRA | CS @ Columbia | LinkedIn - https://www.linkedin.com/in/mansisingh99
+
+--- [ DARK WEB RESULTS ] ---
+[+] {'title': 'No results found on Ahmia.', 'link': 'N/A'}
+
+--- [ GITHUB RECON ] ---
+[+] emails: {'notify@web3forms.com', 'a@g.com', 'padalasrikanth569@gmail.com', '2023061060@mmmut.ac.in', 'mansiisinghh02@gmail.com', 'singhmansibal@gmail.com', 'vinaykumar13012002@gmail.com', 'janvi8work@gmail.com', 'kanaujiyam785@gmail.com', '2023071039@mmmut.ac.in', 'snehil3413@gmail.com', '2023081002@mmmut.ac.in', '2023091016@mmmut.ac.in', 'anjuchaudhary2451100@gmail.com', 'lakshaybhatnagar22@gmail.com', 'mansisinghece@gmail.com', '2023031107@mmmut.ac.in', '2023051025@mmmut.ac.in', '2023041267@mmmut.ac.in', 'raunakj884@gmail.com', 'support@mailgun.net', 'support@auxaty.com', '2023021110@mmmut.ac.in', 'abhinavrajdevx@gmail.com', 'advertise-noreply@support.facebook.com', 'singhmansi8171@gmail.com', 'adityajha300@gmail.com', 'notification@facebookmail.com', '2023021032@mmmut.ac.in', '2023051076@mmmut.ac.in', '2023081049@mmmut.ac.in', 'gandmedaalo@abhinav.ke', '2023021243@mmmut.ac.in', 'udbhav.s894@gmail.com', '2023021012@mmmut.ac.in', 'mansi.Singh@hireme.ow', '2023021128@mmmut.ac.in'}
+[+] phones: {'', '2', '+91 ', '1', '0', '8', '227 '}
+[+] sources: ['https://github.com/manshi-singh-123/Medicine_recommendation_system/blob/381402ec31eaacfda4fcb7cdb07a7d900dfb9b4e/Readme.md', 'https://github.com/AbhinavBuilds/webmails-rest-api-and-websocket/blob/6eb9f948804c6fd5f8708031cbbe12608c89dbc5/emails.txt', 'https://github.com/Mansiprajapatii/HireMeow-Hackathon-Project/blob/2a26dd1ea9a0e313cad5bb38249cf15831dba29a/src/hooks/use-mocked-user.js', 'https://github.com/lakshay-bhatnagar/Skill-Share-Odoo/blob/1753b7e10788160ffaaea393d4d750d8cbdd550c/README.md', 'https://github.com/mansisingh02/Portfolio/blob/035bc7477e294fc263441fa92f176b7a4142c2a7/MyPortfolio/index.html', 'https://github.com/AnonymousAdgaur/BirthdayApi/blob/c5b1ad36ddba0a3774bc9791a24cf5543be66f76/Jan.json', 'https://github.com/Gopal-Dahale/PlayStore/blob/aecda2abdc169b3c4945cf06be501d92f273dff1/fails.txt', 'https://github.com/AbhinavBuilds/webmails-rest-api-and-websocket/blob/6eb9f948804c6fd5f8708031cbbe12608c89dbc5/emails.txt', 'https://github.com/MansiDS-BIT/flask-assign/blob/8bfadda7e6920d0a7d13f2760cdedacf260b5507/assignment.ipynb', 'https://github.com/SJTU-YONGFU-RESEARCH-GRP/CIRDC/blob/1ab56d1088cea9ece4fa03cd1844d3e8425a86f0/CIRDC/8663266/2018.json']
+
+--- [ BREACH CHECK ] ---
+[+] No breaches found in public databases.
+

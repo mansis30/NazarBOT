@@ -1,0 +1,13 @@
+# GUI Framework
+customtkinter
+# Web Search & Scrapers
+ddgs
+googlesearch-python
+beautifulsoup4
+# Connectivity & API Handling
+requests
+python-dotenv
+# Phone Forensics
+phonenumbers
+# Threading & UI Support
+urllib3
