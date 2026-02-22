@@ -5,11 +5,11 @@ def generate_report(target, data_dict):
     """
     Saves the aggregated OSINT data into a timestamped text file.
     """
-    # Create 'reports' directory if it doesn't exist
+    
     if not os.path.exists('reports'):
         os.makedirs('reports')
 
-    # Generate a filename with a timestamp
+    
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = f"reports/NazarBOT_{target}_{timestamp}.txt"
 
@@ -21,7 +21,7 @@ def generate_report(target, data_dict):
             f.write(f" Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write(f"{'='*30}\n\n")
 
-            # Iterate through each module's results
+            
             for module, results in data_dict.items():
                 f.write(f"--- [ {module.upper()} ] ---\n")
                 if isinstance(results, list):

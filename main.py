@@ -17,20 +17,20 @@ def run_nazar_scan(target):
     """
     startup_banner()
     
-    # 0. Connectivity Check
+    # Connectivity Check
     if not is_tor_controllable():
         print("[-] Critical Failure: Tor is not reachable. Scans aborted.")
         return
     
     print(f"[*] NazarBOT Engine: Analyzing {target}...\n")
     
-    # 1. Run Phone Metadata Lookup
+    # Run Phone Metadata Lookup
     phone_results = get_phone_metadata(target)
     print("--- [ Phone Intelligence ] ---")
     for key, value in phone_results.items():
         print(f"[+] {key}: {value}")
 
-    # 2. Dark Web Search
+    # Dark Web Search
     print("\n--- [ Dark Web Intelligence ] ---")
     dark_results = search_ahmia(target)
     for res in dark_results:
@@ -40,7 +40,7 @@ def run_nazar_scan(target):
             print(f"[+] Found: {res['title']}")
             print(f"    Link:  {res['link']}")
 
-    # 3. Data Breach Search
+    # Data Breach Search
     print("\n--- [ Breach Intelligence ] ---")
     leaks = check_leaks(target)
     if not leaks or "No breaches found" in str(leaks):
@@ -49,13 +49,13 @@ def run_nazar_scan(target):
         for leak in leaks:
             print(f"[!] CRITICAL: Found in leak: {leak}")
     
-    # 4. Surface Web Search
+    # Surface Web Search
     print("\n--- [ Surface Web Mentions ] ---")
     mentions = search_by_name(target)
     for link in mentions:
         print(f"[+] Found Profile/Doc: {link}")
 
-    # 5. GitHub Recon
+    # GitHub Recon
     print("\n--- [ GitHub Recon Intelligence ] ---")
     recon_data = github_contact_recon(target)
     if "error" in recon_data:
@@ -78,7 +78,7 @@ def run_nazar_scan(target):
             for source in recon_data["sources"][:3]:
                 print(f"  - {source}")
 
-    # 6. Final Reporting
+    # Final Reporting
     all_data = {
         "Phone Intelligence": phone_results,
         "Surface Web Mentions": mentions,
@@ -91,11 +91,11 @@ def run_nazar_scan(target):
     print("\n[*] Scan complete. Report saved in /reports/ directory.")
     print("[*] NazarBOT is going offline.")
 
-# ---------------------------------------------------------
+
 # CLI ENTRY POINT
-# ---------------------------------------------------------
+
 if __name__ == "__main__":
-    # This block only runs if you play 'main.py' directly
+    
     try:
         target_input = input("Enter search target (Name/Phone): ")
         if target_input.strip():

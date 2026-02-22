@@ -3,7 +3,7 @@ from core.anonymity import get_tor_session
 
 def search_ahmia(query):
     session = get_tor_session()
-    # Official Ahmia v3 Onion Address for 2026
+    
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/115.0',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
@@ -21,7 +21,7 @@ def search_ahmia(query):
         soup = BeautifulSoup(response.text, 'html.parser')
         results = []
         
-        # Scrape result items (usually <li> with class 'result')
+        
         for li in soup.find_all('li', class_='result'):
             title_tag = li.find('h4')
             link_tag = li.find('cite')
