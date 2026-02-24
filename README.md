@@ -34,21 +34,21 @@ pip install -r requirements.txt
 
 NazarBOT uses environment variables to keep your API tokens secure. Create a .env file in the root folder:
 
-GITHUB_TOKEN=your_personal_access_token_here
+**GITHUB_TOKEN=your_personal_access_token_here**
 
 DO NOT COMMIT THIS FILE TO GITHUB
 
 # HOW TO USE
 
-Start Tor: Ensure the Tor Browser is open or the Tor service is active in the background for anonymity.
+**Start Tor:** Ensure the Tor Browser is open or the Tor service is active in the background for anonymity.
 
-Launch GUI: Run python gui.py to open the visual dashboard.
+**Launch GUI:** Run python gui.py to open the visual dashboard.
 
-Input Target: Enter a Name or Phone Number in the dashboard search bar.
+**Input Target:** Enter a Name or Phone Number in the dashboard search bar.
 
-Initiate Protocol: Click the "Initiate Protocol" button to start the multi-module scan.
+**Initiate Protocol:** Click the "Initiate Protocol" button to start the multi-module scan.
 
-Review Results: Monitor the green console window for real-time intelligence hits as they are found.
+**Review Results:** Monitor the green console window for real-time intelligence hits as they are found.
 
-Export Findings: Retrieve the final, detailed forensic report from the reports/ folder once the status shows "Scan Complete".
+**Export Findings:** Retrieve the final, detailed forensic report from the reports/ folder once the status shows "Scan Complete".
 
