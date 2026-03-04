@@ -1,10 +1,10 @@
-# NazarBOT👁️ - The All-Seeing Eye
+# NazarBOT: The All-Seeing Eye
 
 NazarBOT is a sophisticated, modular OSINT reconnaissance tool designed for cybersecurity researchers and digital forensics enthusiasts. It automates the collection of digital footprints across the surface web, dark web, and developer ecosystems, providing a comprehensive analysis of a target's online presence.
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 NazarBOT operates as a multi-layered engine where the GUI communicates with independent reconnaissance modules via asynchronous threading. This ensures that slow network requests do not crash the user interface.
 
@@ -12,7 +12,7 @@ NazarBOT operates as a multi-layered engine where the GUI communicates with inde
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### 1. Prerequisites
 - **Python 3.10+**
